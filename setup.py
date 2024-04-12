@@ -20,7 +20,7 @@ setup(
     zip_safe=False,
     install_requires=[
         'clld',
-        'clld-audio-plugin',
+        'clld-audio-plugin>=1.2.0',
         'clldmpg',
 
 ],

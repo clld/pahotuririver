@@ -1,0 +1,2 @@
+graft pahotuririver
+global-exclude *.py[co]
